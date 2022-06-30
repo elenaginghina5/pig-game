@@ -1,6 +1,5 @@
 # pig-game
 (practice project) - a simple javaScript game
-//////////////////////////////////////
 
 Instructions
  - The game of Pig is a very simple jeopardy dice game in which two players race to reach 100 points.
@@ -12,7 +11,5 @@ Instructions
 2 - 6:  the number is added to the player's turn total and the player's turn continues.
 
 *hold* - The turn total is added to the player's score and it becomes the opponent's turn.
-
-/////////////////////////////////////
 
 *Note! This is a practice mini project so it can not be played against the computer or on two diffrent computers!!*
