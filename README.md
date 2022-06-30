@@ -8,9 +8,11 @@ Instructions
  - At any time during a player's turn, the player is faced with two decisions:
 
 *roll* - If the player rolls a
-                  1:  the player scores nothing and it becomes the opponent's turn.
-              2 - 6:  the number is added to the player's turn total and the player's turn continues.
+1:  the player scores nothing and it becomes the opponent's turn.
+2 - 6:  the number is added to the player's turn total and the player's turn continues.
+
 *hold* - The turn total is added to the player's score and it becomes the opponent's turn.
+
 /////////////////////////////////////
 
 *Note! This is a practice mini project so it can not be played against the computer or on two diffrent computers!!*
